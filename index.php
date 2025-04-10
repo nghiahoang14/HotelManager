@@ -52,7 +52,7 @@
                             <input type="date" class="form-control shadow-none">
                         </div>
                         <div class="col-lg-3 mb-3">
-                            <label class="form-label" style="font-weight:500">Check-out </label>
+                            <label class="form-label" style="font-weight:500">Check-out - 1 </label>
                             <input type="date" class="form-control shadow-none">
                         </div>
                         <div class="col-lg-2 mb-3">
