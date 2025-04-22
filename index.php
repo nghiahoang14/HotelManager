@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Hotel- Manager - 1 - 2 </title>
+
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <?php require('inc/links.php')?>
@@ -43,7 +45,7 @@
     <div class="container availability-form">
         <div class="row">
             <div class="col-lg-12 bg-white shadow p-4 rounded">
-                <h5 class="mb-4">Check Booking Availability - 11111</h5>
+                <h5 class="mb-4">Check Booking Availability</h5>
 
                 <form>
                     <div class="row align-items-end">
